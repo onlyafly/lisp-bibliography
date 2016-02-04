@@ -14,6 +14,7 @@ I prefer resources that are broadly applicable over ones that are highly specifi
 
 ## Meta Lists
 
+* [Clojure the Next Level](http://www.lispcast.com/clojure-the-next-level)
 * [Rich Hickey’s Greatest Hits](https://changelog.com/rich-hickeys-greatest-hits/)
   * The greatest videos from Rich Hickey, creator or Clojure and all-around programmer-philosopher.
 * [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
