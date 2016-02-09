@@ -59,6 +59,11 @@ Go's Concurrency Patterns:
 
 ## Lisp Implementation
 
+### Metacircular Interpreters
+
+- "A Micro-Manual for Lisp - Not the Whole Truth" by John McCarthy ([pdf](http://www.ee.ryerson.ca/~elf/pub/misc/micromanualLISP.pdf))
+  - Two page paper describing a "complete" Lisp interpreter. 
+
 ### Implementing Macros
 
 - First-class macros: http://matt.might.net/articles/metacircular-evaluation-and-first-class-run-time-macros/
