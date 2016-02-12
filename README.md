@@ -52,6 +52,7 @@ I prefer resources that are broadly applicable over ones that are highly specifi
   * Repository of academic computer science papers and a community who loves reading them.
 * [JS Must Watch](https://github.com/bolshchikov/js-must-watch/tree/master)
   * Curated list of the best JS videos over the years.
+* [Read Scheme: Bibliography of Scheme-related Research](http://library.readscheme.org/index.html)
 
 # In Defense of Programming Languages
 
@@ -96,6 +97,7 @@ Go's Concurrency Patterns:
 
 - "A Micro-Manual for Lisp - Not the Whole Truth" by John McCarthy ([pdf](http://www.ee.ryerson.ca/~elf/pub/misc/micromanualLISP.pdf))
   - Two page paper describing a "complete" Lisp interpreter.
+- http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-453.pdf
 - http://c2.com/cgi/wiki?ImplementingLisp
 - “Structure and Interpretation of Computer Programs”
 ([web](http://mitpress.mit.edu/sicp/full-text/book/book.html),
