@@ -96,12 +96,13 @@ Go's Concurrency Patterns:
 ## Metacircular Interpreters
 
 - "A Micro-Manual for Lisp - Not the Whole Truth" by John McCarthy ([pdf](http://www.ee.ryerson.ca/~elf/pub/misc/micromanualLISP.pdf))
-  - Two page paper describing a "complete" Lisp interpreter.
-- http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-453.pdf
-- http://c2.com/cgi/wiki?ImplementingLisp
+  - Two page paper describing a "complete" Lisp interpreter for a pure Lisp.
+- "Lisp in Small Pieces" by Christian Queinnec ([Amazon](http://www.amazon.com/Lisp-Small-Pieces-Christian-Queinnec/dp/0521545668))
+  - The ultimate guide to metacircular interpreters, and compilers.
 - “Structure and Interpretation of Computer Programs”
 ([web](http://mitpress.mit.edu/sicp/full-text/book/book.html),
 [video lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/), [Kindle](https://github.com/jonathanpatt/sicp-kindle))
+- http://c2.com/cgi/wiki?ImplementingLisp
 
 ## Macro Implementation
 
