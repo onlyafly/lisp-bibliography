@@ -96,6 +96,8 @@ Go's Concurrency Patterns:
 # Lisp Implementation
 
 - ["Implementing Lisp" at c2.com](http://c2.com/cgi/wiki?ImplementingLisp)
+- "Three Implementation Models for Scheme" by R. Kent Dybvig ([pdf](https://www.cs.indiana.edu/~dyb/pubs/3imp.pdf))
+	- Describes two interesting interpreters/compilers: the heap based model is the easiest to implement, but the stack based is more efficient. Cover
 
 ## Metacircular Interpreters
 
@@ -131,7 +133,7 @@ Go's Concurrency Patterns:
 - Clojure???
 - http://matt.might.net/articles/compiling-scheme-to-c/
 
-### Implementing Tail Recursion
+### Implementing Tail Call Optimization
 
 - "A little bit of CPS, a few thunks, and a trampoline" by Chris Frisz (Video): http://www.chrisfrisz.com/slides/clojure-tco.pdf
   - Short presentation on how TCO was implemented on top of Clojure
@@ -142,9 +144,15 @@ Go's Concurrency Patterns:
   - Supports fully optimized proper tail calls, continuations, and (of course) full closures, using two important compilation techniques for functional languages: closure conversion and CPS-conversion
 - http://www.cs.indiana.edu/~dyb/papers/3imp.pdf
 
-### Implementing call/cc
+### Implementing Continuations
 
-- Description of Scheme2Js's call/cc implementation: http://www-sop.inria.fr/indes/scheme2js/files/schemews2007.pdf
+- ["Implementation Strategies for First-Class Continuations" by William D. Clinger, Anne H. Hartheimer, Eric M. Ost](http://link.springer.com/article/10.1023/A:1010016816429)
+- [Description of Scheme2Js's call/cc implementation](http://www-sop.inria.fr/indes/scheme2js/files/schemews2007.pdf)
+
+**Also referenced elsewhere in this bibliography**
+
+- "Three Implementation Models for Scheme" by R. Kent Dybvig
+- Chapter 3 of "Lisp in Small Pieces" by Christian Queinnec
 
 ## Typing
 
