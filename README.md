@@ -63,6 +63,11 @@ I prefer resources that are broadly applicable over ones that are highly specifi
 * ["Why we need even more programming languages" By Neil McAllister](http://www.infoworld.com/article/2618643/application-development/why-we-need-even-more-programming-languages.html)
   * Upgrading existing, popular languages to support new features is a lot harder than you might think
 
+# Lambda Calculus
+
+* ["Programming Language Theory and its Implementation" by Michael J C Gordon (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.5717&rep=rep1&type=pdf) or ([Amazon](http://www.amazon.com/Programming-Language-Implementation-International-Computing/dp/013730417X/ref=mt_hardcover?_encoding=UTF8&me=))
+	* An interesting and thorough overview of the Lambda Calculus. See Section II, Chapters 4-8.
+
 # Monads
 
 - ["Why a Monad Is Like a Writing Desk"](http://www.infoq.com/presentations/Why-is-a-Monad-Like-a-Writing-Desk)
